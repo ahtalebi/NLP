@@ -1,5 +1,5 @@
 # NLP
 Classification and clustering.
 
-The data for this calculations r from kaggle:
+The dataset for this calculation is coming from:
 https://www.kaggle.com/code/martinkk5575/language-detection/input
